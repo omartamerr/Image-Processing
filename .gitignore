@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+eggs/
+.eggs/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# IDEs
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Test / coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Virtualenv / env folders
+.env
+.venv
+env/
+venv/
+
+# Compiled Python
+*.pyc
+
+# Notebook outputs
+*.nbconvert.ipynb
+
+# Project Code caches
+/Project Code/__pycache__/
